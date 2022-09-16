@@ -14,7 +14,7 @@ Anki: 2
 
 # Legal Compliance and regulations
 
->[!question] #question/unanswered
+>[!question] 
 >what are the [[Data Retention#Data Retention|data retention]] requirements for each of these regulations/standards?
 
 - Use the [[CIA triad]] or [[Parkerian Hexad]] to assess these acts with specific reference to your system.

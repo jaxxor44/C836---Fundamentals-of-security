@@ -6,14 +6,13 @@ modification date: 2022-07-26  11:24:15
 
 Class: C836 - Fundamentals of security
 Source: Foundations of Information Security A Straightforward Introduction
-tags: C836/
+tags: C836
 cards-deck: C836 - Fundamentals of security
 Anki: 3
 
 ---
 #C836/unit_2-2-1 #C836/unit_2-1-1
 # Chapter 1 exercises
-#question/answered 
 1. Explain the difference between a vulnerability and a threat?
 	- A [[2.1 - What is Information Security#Vulnerabilities|vulnerability]] is a weakness in the given system, physical, or otherwise.
 	-  A [[2.1 - What is Information Security#threats|threat]] is an attacker who may take advantage o f a vulnerability.

@@ -12,7 +12,7 @@ Anki: 1
 
 ---
 
-# The Asset Lifecycle #expand 
+# The Asset Lifecycle
 
 ## Identify & Classify
 - New assets should be identified and classified

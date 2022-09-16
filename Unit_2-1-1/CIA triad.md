@@ -13,11 +13,14 @@ Anki: 1
 ---
 # CIA Triad
 
->[!question] #question/unanswered 
+>[!question] 
 >does [[Data Retention#Data Retention|data retention]] apply to availability?
 >If keeping sensitive data past legal required time is always a risk, what does that do for availability?
 
 ## Confidentiality
+
+^915ce8
+
 ^03053f
 - Our ability to protect data from those who are not authorized to view it. ^477c71
 - This 1/3 of the CIA triad is a set of rules that limit access to data/information

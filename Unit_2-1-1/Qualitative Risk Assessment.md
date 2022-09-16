@@ -17,7 +17,7 @@ Anki: None
 - When preforming [[Attack Surface Analysis|attack surface analysis]], this method allows for threat scoring.
 - More subjective than a [[Quantitative Risk Analysis#Quantitative Risk Analysis|Quantitative Risk Analysis]].
 
->[!question] #question/answered
+>[!question] 
 >what is the difference between quantitative and qualitative?
 >>[!answer]
 >> ![[quantitative_vs_qualitative.png]]

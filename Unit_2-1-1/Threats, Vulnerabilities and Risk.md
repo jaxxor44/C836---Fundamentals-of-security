@@ -13,17 +13,17 @@ Anki: None
 ---
 
 # Threats, Vulnerabilities and Risk
->[!question] #question/answered 
+>[!question] 
 >what is the difference between a threat and a vulnerability?
 >>[!answer]
 >>Vulnerabilities are used by threats.
 
->[!question] #question/answered 
+>[!question] 
 >does this include things like, the generators are old and threaten to give out? 
 >>[!answer]
 >>this kind of thing is better classified as a vulnerability.
 
->[!question] #question/answered 
+>[!question] 
 >does excessive [[Data Retention#Data Retention|data retention]] qualify as a vulnerability?
 >>[!answer]
 >>absoloutely, keeping sensitive data longer than needed is just increasing the data hoard that can be stolen.

@@ -6,7 +6,7 @@ modification date: 2022-08-02  09:41:47
 
 Class: C836 - Fundamentals of security
 Source: Foundations of Information Security A Straightforward Introduction
-tags: C836/4-1-1
+tags: C836/Unit_4-1-1
 cards-deck: C836 - Fundamentals of security
 Anki: None
 
